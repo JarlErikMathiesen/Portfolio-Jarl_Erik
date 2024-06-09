@@ -105,6 +105,11 @@ a:visited {
 	color: #FF7800;
 }
 
+.portfolio-about {
+	grid-row: 6;
+	grid-column: 3/10;
+}
+
 @media (max-width: 900px) {
 
 	.portfolio-cards {
